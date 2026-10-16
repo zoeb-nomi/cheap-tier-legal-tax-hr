@@ -1,0 +1,218 @@
+{
+  "legal": [
+    {
+      "system": "A  opus on everything",
+      "accuracy": 0.8470319634703196,
+      "usd_per_1k": 4.782433789954338,
+      "human_share": 0,
+      "n": 876
+    },
+    {
+      "system": "B  haiku on everything",
+      "accuracy": 0.7888127853881278,
+      "usd_per_1k": 0.15735308219178082,
+      "human_share": 0,
+      "n": 876
+    },
+    {
+      "system": "B  luna on everything",
+      "accuracy": 0.7831050228310502,
+      "usd_per_1k": 0.08277271689497717,
+      "human_share": 0,
+      "n": 876
+    },
+    {
+      "system": "B  flashlite on everything",
+      "accuracy": 0.795662100456621,
+      "usd_per_1k": 0.11283019406392694,
+      "human_share": 0,
+      "n": 876
+    },
+    {
+      "system": "B  gemma on everything",
+      "accuracy": 0.7705479452054794,
+      "usd_per_1k": 0.0,
+      "human_share": 0,
+      "n": 876
+    },
+    {
+      "system": "C  Haiku gate 85%, opus on the rest (52%)",
+      "accuracy": 0.8356164383561644,
+      "usd_per_1k": 3.4119512557077627,
+      "human_share": 0,
+      "n": 876
+    },
+    {
+      "system": "E  Haiku gate 85%, people read the rest (52%)",
+      "accuracy": 0.9328537170263789,
+      "usd_per_1k": 0.15735308219178082,
+      "human_share": 0.523972602739726,
+      "n": 876
+    },
+    {
+      "system": "D  luna + Haiku, opus decides disagreements (12%)",
+      "accuracy": 0.797945205479452,
+      "usd_per_1k": 1.0519111872146119,
+      "human_share": 0,
+      "n": 876
+    },
+    {
+      "system": "D  flashlite + Haiku, opus decides disagreements (14%)",
+      "accuracy": 0.815068493150685,
+      "usd_per_1k": 1.2298864726027396,
+      "human_share": 0,
+      "n": 876
+    },
+    {
+      "system": "D  gemma + Haiku, opus decides disagreements (23%)",
+      "accuracy": 0.8082191780821918,
+      "usd_per_1k": 1.766024315068493,
+      "human_share": 0,
+      "n": 876
+    }
+  ],
+  "tax": [
+    {
+      "system": "A  opus on everything",
+      "accuracy": 0.95662100456621,
+      "usd_per_1k": 5.2350228310502285,
+      "human_share": 0,
+      "n": 438
+    },
+    {
+      "system": "B  haiku on everything",
+      "accuracy": 0.8470319634703196,
+      "usd_per_1k": 0.1816244292237443,
+      "human_share": 0,
+      "n": 438
+    },
+    {
+      "system": "B  luna on everything",
+      "accuracy": 0.8447488584474886,
+      "usd_per_1k": 0.11575319634703196,
+      "human_share": 0,
+      "n": 438
+    },
+    {
+      "system": "B  flashlite on everything",
+      "accuracy": 0.8835616438356164,
+      "usd_per_1k": 0.1326118721461187,
+      "human_share": 0,
+      "n": 438
+    },
+    {
+      "system": "B  gemma on everything",
+      "accuracy": 0.9178082191780822,
+      "usd_per_1k": 0.0,
+      "human_share": 0,
+      "n": 438
+    },
+    {
+      "system": "C  Haiku gate 85%, opus on the rest (50%)",
+      "accuracy": 0.954337899543379,
+      "usd_per_1k": 3.4733778538812787,
+      "human_share": 0,
+      "n": 438
+    },
+    {
+      "system": "E  Haiku gate 85%, people read the rest (50%)",
+      "accuracy": 0.9909502262443439,
+      "usd_per_1k": 0.1816244292237443,
+      "human_share": 0.4954337899543379,
+      "n": 438
+    },
+    {
+      "system": "D  luna + Haiku, opus decides disagreements (10%)",
+      "accuracy": 0.8904109589041096,
+      "usd_per_1k": 0.9851584474885845,
+      "human_share": 0,
+      "n": 438
+    },
+    {
+      "system": "D  flashlite + Haiku, opus decides disagreements (17%)",
+      "accuracy": 0.9246575342465754,
+      "usd_per_1k": 1.5019897260273973,
+      "human_share": 0,
+      "n": 438
+    },
+    {
+      "system": "D  gemma + Haiku, opus decides disagreements (18%)",
+      "accuracy": 0.9452054794520548,
+      "usd_per_1k": 1.5064554794520548,
+      "human_share": 0,
+      "n": 438
+    }
+  ],
+  "hr": [
+    {
+      "system": "A  opus on everything",
+      "accuracy": 0.96,
+      "usd_per_1k": 2.6325199999999995,
+      "human_share": 0,
+      "n": 100
+    },
+    {
+      "system": "B  haiku on everything",
+      "accuracy": 0.96,
+      "usd_per_1k": 0.074863,
+      "human_share": 0,
+      "n": 100
+    },
+    {
+      "system": "B  luna on everything",
+      "accuracy": 0.95,
+      "usd_per_1k": 0.059782,
+      "human_share": 0,
+      "n": 100
+    },
+    {
+      "system": "B  flashlite on everything",
+      "accuracy": 0.95,
+      "usd_per_1k": 0.109305,
+      "human_share": 0,
+      "n": 100
+    },
+    {
+      "system": "B  gemma on everything",
+      "accuracy": 0.93,
+      "usd_per_1k": 0.0,
+      "human_share": 0,
+      "n": 100
+    },
+    {
+      "system": "C  Haiku gate 85%, opus on the rest (11%)",
+      "accuracy": 0.96,
+      "usd_per_1k": 0.483303,
+      "human_share": 0,
+      "n": 100
+    },
+    {
+      "system": "E  Haiku gate 85%, people read the rest (11%)",
+      "accuracy": 1.0,
+      "usd_per_1k": 0.074863,
+      "human_share": 0.11,
+      "n": 100
+    },
+    {
+      "system": "D  luna + Haiku, opus decides disagreements (1%)",
+      "accuracy": 0.96,
+      "usd_per_1k": 0.173525,
+      "human_share": 0,
+      "n": 100
+    },
+    {
+      "system": "D  flashlite + Haiku, opus decides disagreements (1%)",
+      "accuracy": 0.96,
+      "usd_per_1k": 0.231128,
+      "human_share": 0,
+      "n": 100
+    },
+    {
+      "system": "D  gemma + Haiku, opus decides disagreements (3%)",
+      "accuracy": 0.96,
+      "usd_per_1k": 0.163503,
+      "human_share": 0,
+      "n": 100
+    }
+  ]
+}

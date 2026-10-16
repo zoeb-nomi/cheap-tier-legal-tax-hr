@@ -1,0 +1,4 @@
+{
+  "sara_entailment": "Does the statute, applied to these facts, entail the following conclusion: <conclusion>? (the conclusion is filled in per row from the task's own statement column)",
+  "learned_hands_employment": "Does the post discuss issues related to working at a job, including discrimination and harassment, worker's compensation, workers rights, unions, getting paid, pensions, being fired, and more?"
+}

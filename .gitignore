@@ -1,0 +1,11 @@
+data/*
+!data/prompts.json
+!data/prompts_ext.json
+!data/item_ids.txt
+results/multi/*.jsonl
+.venv/
+.env
+*.env
+__pycache__/
+.DS_Store
+social/out/

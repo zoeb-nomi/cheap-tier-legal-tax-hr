@@ -1,0 +1,217 @@
+{
+  "n_common": 1414,
+  "vendors": [
+    "haiku",
+    "luna",
+    "flashlite",
+    "gemma"
+  ],
+  "pairs": {
+    "haiku|luna": {
+      "agree": 1267,
+      "disagree": 147,
+      "acc_when_agree": 0.8531965272296764,
+      "acc_a_on_disagree": 0.5238095238095238,
+      "acc_b_on_disagree": 0.47619047619047616
+    },
+    "haiku|flashlite": {
+      "agree": 1215,
+      "disagree": 199,
+      "acc_when_agree": 0.8798353909465021,
+      "acc_a_on_disagree": 0.4472361809045226,
+      "acc_b_on_disagree": 0.5527638190954773
+    },
+    "haiku|gemma": {
+      "agree": 1132,
+      "disagree": 282,
+      "acc_when_agree": 0.9037102473498233,
+      "acc_a_on_disagree": 0.4787234042553192,
+      "acc_b_on_disagree": 0.5212765957446809
+    },
+    "luna|flashlite": {
+      "agree": 1240,
+      "disagree": 174,
+      "acc_when_agree": 0.8693548387096774,
+      "acc_a_on_disagree": 0.41954022988505746,
+      "acc_b_on_disagree": 0.5804597701149425
+    },
+    "luna|gemma": {
+      "agree": 1103,
+      "disagree": 311,
+      "acc_when_agree": 0.9111514052583862,
+      "acc_a_on_disagree": 0.4694533762057878,
+      "acc_b_on_disagree": 0.5305466237942122
+    },
+    "flashlite|gemma": {
+      "agree": 1161,
+      "disagree": 253,
+      "acc_when_agree": 0.9026701119724375,
+      "acc_a_on_disagree": 0.5177865612648221,
+      "acc_b_on_disagree": 0.48221343873517786
+    }
+  },
+  "majority": {
+    "legalbench": {
+      "n": 744,
+      "single": {
+        "haiku": 0.8629032258064516,
+        "luna": 0.8629032258064516,
+        "flashlite": 0.8575268817204301,
+        "gemma": 0.8198924731182796
+      },
+      "majority": 0.8709677419354839
+    },
+    "alinia": {
+      "n": 670,
+      "single": {
+        "haiku": 0.7701492537313432,
+        "luna": 0.7597014925373134,
+        "flashlite": 0.8074626865671641,
+        "gemma": 0.835820895522388
+      },
+      "majority": 0.8119402985074626
+    }
+  },
+  "second_opinion": {
+    "haiku<-luna": {
+      "queue": 2,
+      "a_wrong": 0
+    },
+    "haiku<-flashlite": {
+      "queue": 4,
+      "a_wrong": 0
+    },
+    "haiku<-gemma": {
+      "queue": 6,
+      "a_wrong": 0
+    },
+    "luna<-haiku": {
+      "queue": 102,
+      "a_wrong": 48
+    },
+    "luna<-flashlite": {
+      "queue": 122,
+      "a_wrong": 64
+    },
+    "luna<-gemma": {
+      "queue": 247,
+      "a_wrong": 120
+    },
+    "flashlite<-haiku": {
+      "queue": 159,
+      "a_wrong": 78
+    },
+    "flashlite<-luna": {
+      "queue": 126,
+      "a_wrong": 59
+    },
+    "flashlite<-gemma": {
+      "queue": 230,
+      "a_wrong": 107
+    },
+    "gemma<-haiku": {
+      "queue": 220,
+      "a_wrong": 100
+    },
+    "gemma<-luna": {
+      "queue": 254,
+      "a_wrong": 110
+    },
+    "gemma<-flashlite": {
+      "queue": 194,
+      "a_wrong": 94
+    }
+  },
+  "all_wrong": {
+    "alinia_legal": [
+      "alinia_legal-legal-0015",
+      "alinia_legal-legal-0050",
+      "alinia_legal-legal-0070",
+      "alinia_legal-legal-0073",
+      "alinia_legal-legal-0106",
+      "alinia_legal-legal-0114",
+      "alinia_legal-legal-0176",
+      "alinia_legal-legal-0226",
+      "alinia_legal-legal-0237",
+      "alinia_legal-legal-0241",
+      "alinia_legal-legal-0248",
+      "alinia_legal-legal-0262",
+      "alinia_legal-legal-0290",
+      "alinia_legal-legal-0323"
+    ],
+    "alinia_tax": [
+      "alinia_tax-tax-0104",
+      "alinia_tax-tax-0295",
+      "alinia_tax-tax-0318"
+    ],
+    "cuad_anti-assignment": [
+      "cuad_anti-assignment-107",
+      "cuad_anti-assignment-131",
+      "cuad_anti-assignment-148",
+      "cuad_anti-assignment-176",
+      "cuad_anti-assignment-21",
+      "cuad_anti-assignment-212",
+      "cuad_anti-assignment-261",
+      "cuad_anti-assignment-285",
+      "cuad_anti-assignment-313",
+      "cuad_anti-assignment-314",
+      "cuad_anti-assignment-317",
+      "cuad_anti-assignment-404",
+      "cuad_anti-assignment-424",
+      "cuad_anti-assignment-453",
+      "cuad_anti-assignment-483",
+      "cuad_anti-assignment-493",
+      "cuad_anti-assignment-499",
+      "cuad_anti-assignment-536",
+      "cuad_anti-assignment-551"
+    ],
+    "cuad_change_of_control": [
+      "cuad_change_of_control-110",
+      "cuad_change_of_control-13",
+      "cuad_change_of_control-153",
+      "cuad_change_of_control-156",
+      "cuad_change_of_control-164",
+      "cuad_change_of_control-165",
+      "cuad_change_of_control-175",
+      "cuad_change_of_control-2",
+      "cuad_change_of_control-200",
+      "cuad_change_of_control-201",
+      "cuad_change_of_control-252",
+      "cuad_change_of_control-36",
+      "cuad_change_of_control-37",
+      "cuad_change_of_control-47",
+      "cuad_change_of_control-5",
+      "cuad_change_of_control-64",
+      "cuad_change_of_control-77",
+      "cuad_change_of_control-79"
+    ],
+    "cuad_non-compete": [
+      "cuad_non-compete-10",
+      "cuad_non-compete-104",
+      "cuad_non-compete-115",
+      "cuad_non-compete-149",
+      "cuad_non-compete-192",
+      "cuad_non-compete-232",
+      "cuad_non-compete-437",
+      "cuad_non-compete-79"
+    ],
+    "hearsay": [
+      "hearsay-39",
+      "hearsay-42",
+      "hearsay-75",
+      "hearsay-78",
+      "hearsay-84"
+    ],
+    "learned_hands_employment": [
+      "learned_hands_employment-370",
+      "learned_hands_employment-493",
+      "learned_hands_employment-545",
+      "learned_hands_employment-547"
+    ],
+    "sara_entailment": [
+      "sara_entailment-61",
+      "sara_entailment-74",
+      "sara_entailment-98"
+    ]
+  }
+}

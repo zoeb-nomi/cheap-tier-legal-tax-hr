@@ -1,0 +1,9 @@
+{
+  "cuad_anti-assignment": "Does the clause require consent or notice of a party if the contract is assigned to a third party?",
+  "cuad_non-compete": "Does the clause restrict the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?",
+  "cuad_change_of_control": "Does the clause give one party the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+  "hearsay": "Hearsay is an out-of-court statement introduced to prove the truth of the matter asserted. A statement made in court during the current trial or hearing is not hearsay. Non-verbal conduct counts as a statement only if it was intended as an assertion. A statement offered for a purpose other than its truth, such as to show its effect on the listener, the speaker's state of mind, or simply that the statement was made, is not hearsay. Applying these rules to the facts, is the evidence described hearsay?",
+  "personal_jurisdiction": "There is personal jurisdiction over a defendant in the state where the defendant is domiciled, or when (1) the defendant has sufficient contacts with the state, such that they have availed itself of the privileges of the state and (2) the claim arises out of the nexus of the defendant's contacts with the state. Is there personal jurisdiction?",
+  "consumer_contracts_qa": "per-row question",
+  "hearsay_verbatim_legalbench": "Hearsay is an out-of-court statement introduced to prove the truth of the matter asserted. Is there hearsay?"
+}
