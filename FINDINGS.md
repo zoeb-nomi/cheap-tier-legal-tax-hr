@@ -1,6 +1,6 @@
 # Findings
 
-Results from `results/multi/summary.csv`, `agreement.json` and `cascade.json`. Four cheap models (Haiku, Luna, Flash-Lite, Gemma) and one frontier reference (Opus) answered 1,414 lawyer-labelled yes/no items with a stated confidence. "Sure" means a stated confidence of 0.9 or more. Pooled figures are the item-weighted combination of the two "ALL" rows in `summary.csv`.
+Results from `results/multi/summary.csv`, `agreement.json` and `cascade.json`. Four cheap models (Haiku, Luna, Flash-Lite, Gemma) and one frontier reference (Opus) answered 1,414 expert-labelled yes/no items with a stated confidence. "Sure" means a stated confidence of 0.9 or more. Pooled figures are the item-weighted combination of the two "ALL" rows in `summary.csv`.
 
 ## Accuracy is close among the cheap models
 
