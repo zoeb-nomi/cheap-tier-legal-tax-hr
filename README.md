@@ -1,6 +1,8 @@
 # Where a 10-cent model goes in a tax, legal or HR workflow
 
-Five models answered the same yes/no question, with a stated confidence, on 1,414 lawyer-labelled items: 744 from LegalBench (eight tasks) and 670 English items from Alinia's regulated-advice-bench (tax and legal subsets). Four are cheap-tier models; the fifth, Opus, is a frontier reference. The cheap models land within a few points of each other on accuracy, but what they mean by "sure" differs a lot. Haiku is rarely sure (28 of 100 answers at a stated confidence of 0.9 or more) and is right on 99 of 100 of those. The other three are sure on 92 to 93 of 100 answers and are wrong on 15 to 16 of every 100 of those. The study then compares simple workflows per domain (legal, tax, HR): one cheap model alone, a confidence gate, a second cheap reader, and a frontier referee. Write-up: {NOTE_URL}. Plain-language findings: [FINDINGS.md](FINDINGS.md).
+By [Zoeb Nomi](https://www.zoebnomi.com).
+
+Five models answered the same yes/no question, with a stated confidence, on 1,414 lawyer-labelled items: 744 from LegalBench (eight tasks) and 670 English items from Alinia's regulated-advice-bench (tax and legal subsets). Four are cheap-tier models; the fifth, Opus, is a frontier reference. The cheap models land within a few points of each other on accuracy, but what they mean by "sure" differs a lot. Haiku is rarely sure (28 of 100 answers at a stated confidence of 0.9 or more) and is right on 99 of 100 of those. The other three are sure on 92 to 93 of 100 answers and are wrong on 15 to 16 of every 100 of those. The study then compares simple workflows per domain (legal, tax, HR): one cheap model alone, a confidence gate, a second cheap reader, and a frontier referee. Plain-language findings: [FINDINGS.md](FINDINGS.md).
 
 This repository holds the code, the prompts, the item ids and the result summaries. It does not hold any dataset text, labels or per-item model outputs.
 
